@@ -13,4 +13,4 @@ PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/install.html
 ## Use
 Execute the file using Python from the command line in the directory that you pulled the repository to.
 
-Ex: python3 ./AutoTyper.py
+Ex: `python3 ./AutoTyper.py`
